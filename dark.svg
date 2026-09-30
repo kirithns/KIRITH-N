@@ -96,7 +96,7 @@
 <line x1="520" x2="1120" y1="140" y2="140" stroke="#22D3EE" stroke-opacity=".2"/></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="1.0s" fill="freeze"/>
 <text x="650" y="190" font-size="13" text-anchor="end" letter-spacing="1" class="c">NAME</text>
-<text x="674" y="190" font-size="26" font-weight="700" class="t">Your Name</text>
+<text x="674" y="190" font-size="26" font-weight="700" class="t">Kirith N</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="1.25s" fill="freeze"/>
 <text x="650" y="230" font-size="13" text-anchor="end" letter-spacing="1" class="c">ROLE</text>
