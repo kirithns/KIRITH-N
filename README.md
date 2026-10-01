@@ -2,36 +2,80 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="Professional developer profile" width="100%">
+    <img src="./dark.svg" alt="Kirith N — Cloud & DevOps" width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> ·
+  <a href="https://github.com/kirithns">GitHub</a> ·
   <a href="https://YOUR_PORTFOLIO_URL">Portfolio</a>
 </p>
 
 ## About
 
-Write two or three sentences about what you build and what you care about.
+I'm **Kirith N**, focused on Cloud and DevOps engineering, infrastructure automation, containerization, and CI/CD. I work with AWS, Kubernetes, Terraform, Docker, Jenkins, Linux, and cloud infrastructure to build reliable and scalable environments.
 
 ## Focus
 
-- Your core focus area
-- Your second focus area
-- Your third focus area
+* ☁️ **AWS Cloud Infrastructure**
+* ⚙️ **DevOps & CI/CD Automation**
+* ☸️ **Kubernetes & Container Orchestration**
+* 🏗️ **Infrastructure as Code**
+* 🐧 **Linux & Cloud Administration**
 
 ## Featured Projects
 
-| Project | Description |
-| --- | --- |
-| [Project One](https://github.com/YOUR_GITHUB_USERNAME/project-one) | One-line description |
-| [Project Two](https://github.com/YOUR_GITHUB_USERNAME/project-two) | One-line description |
+| Project                             | Description                                                                                                                  |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **AWS Infrastructure**              | AWS infrastructure using VPC, subnets, NAT Gateway, route tables, S3, Lambda, DynamoDB and IAM with Terraform.               |
+| **Kubernetes Platform**             | Containerized applications deployed using Kubernetes with Deployments, Services, ConfigMaps, Secrets and persistent storage. |
+| **CI/CD Automation**                | Automated build and deployment workflows using Jenkins, GitHub, Docker and AWS.                                              |
+| **Cloud Infrastructure Automation** | Infrastructure provisioning and management using Terraform across AWS environments.                                          |                             |
 
 ## Engineering Stack
 
-Languages · Frameworks · Databases · Cloud · Testing · CI/CD · Tooling
+### ☁️ Cloud
+
+`AWS` `EC2` `S3` `Lambda` `VPC` `IAM` `DynamoDB` `ALB`
+
+### ⚙️ DevOps
+
+`Terraform` `Docker` `Jenkins` `Git` `GitHub` `CI/CD`
+
+### ☸️ Kubernetes
+
+`Kubernetes` `EKS` `Deployments` `Services` `ConfigMaps` `Secrets` `PV/PVC`
+
+### 🐧 Infrastructure
+
+`Linux` `Ubuntu` `Amazon Linux` `Bash` `Networking`
+
+## Current Learning
+
+```text
+AWS
+ ├── Cloud Infrastructure
+ ├── Networking
+ ├── IAM
+ ├── Load Balancing
+ └── Serverless
+
+DevOps
+ ├── Terraform
+ ├── Docker
+ ├── Jenkins
+ ├── Git
+ └── CI/CD
+
+Kubernetes
+ ├── Deployments
+ ├── Services
+ ├── ConfigMaps
+ ├── Secrets
+ ├── PV / PVC
+ ├── Node Affinity
+ └── EKS
+```
 
 ## GitHub Contributions
 
@@ -45,4 +89,8 @@ Languages · Frameworks · Databases · Cloud · Testing · CI/CD · Tooling
 
 ## Connect
 
-Email: your@email.com
+📧 **Email:** [kirithns2201@email.com](mailto:kirithns2201@email.com)
+
+🔗 **GitHub:** https://github.com/kirithns
+
+🌐 **Portfolio:** https://YOUR_PORTFOLIO_URL
